@@ -1,5 +1,5 @@
 {
-    "name": "Hum.ArchitecturePractice.Editor",
+    "name": "Hum.Sample.Editor",
     "rootNamespace": "Hum",
     "references": [],
     "includePlatforms": [

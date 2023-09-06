@@ -1,5 +1,5 @@
 {
-    "name": "Hum.ArchitecturePractice.Editor.Tests",
+    "name": "Hum.SampleEditor.Tests",
     "rootNamespace": "Hum",
     "references": [
         "GUID:75d667d43607e9249848afd5a00fb509",

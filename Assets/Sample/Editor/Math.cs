@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Hum.ArchitecturePractice.Editor
+namespace Hum.Sample.Editor
 {
     public class Math
     {
